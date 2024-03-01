@@ -1,5 +1,5 @@
 <p align="center">
-    <img [Web infrastructure design] src="https://itinfrastructure.report/images/Resources/9b490421-bb43-400d-b1b4-98d831cf82f7_orchestration-of-infrastructure-in-a-hybrid-environment.jpg">
+    <img [Web infrastructure design] src="https://cdn.discordapp.com/attachments/1186717231644676196/1213243569385504818/Web_infrastructure_design.jpg?ex=65f4c41f&is=65e24f1f&hm=031e24715ac378baa38a1f3157ca6bcb4ea524337564bc11b8d31f406877438a&">
 </p>
 
 ----------
